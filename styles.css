@@ -1,0 +1,35 @@
+.h3, h3 {
+	color: #BF0431;
+	border-bottom: 1px solid #000;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+body {
+  padding-top: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.resume-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.resume-list {
+	list-style-type: circle;
+	font-size: 18px;
+}
+
+.resume {
+	font-family: "Cambria";
+}
+
+.resume-para {
+	font-size: 18px;
+}
