@@ -28,6 +28,8 @@ body {
 
 .resume {
 	font-family: "Cambria";
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .resume-para {
